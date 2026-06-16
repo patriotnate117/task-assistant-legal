@@ -1,3 +1,8 @@
+---
+title: Task Assistant Privacy Policy
+permalink: /privacy-policy/
+---
+
 # Task Assistant Privacy Policy
 
 Last updated: June 15, 2026
@@ -199,4 +204,4 @@ new "Last updated" date.
 
 For support or privacy questions, open an issue at:
 
-https://github.com/patriotnate117/task-assistant/issue
+https://github.com/patriotnate117/task-assistant/issues
