@@ -23,8 +23,8 @@ backend keep your reminders, lists, list items, calendar events, quick
 reminders, and related app data separate from other installs.
 
 The app stores cloud app data on Railway-hosted infrastructure. Voice features
-use OpenAI only when you activate voice. Free users may see ads from Google
-AdMob. Purchases, including Remove Ads, are processed by Google Play or Apple.
+use OpenAI only when you activate voice. Task Assistant is ad-supported and may
+show ads from Google AdMob.
 
 ## Data We Collect or Process
 
@@ -68,20 +68,10 @@ it being processed by the backend and OpenAI for the voice request.
 
 ### Ads and ad measurement
 
-The free version of Task Assistant may show ads using Google AdMob. Depending
-on your region, consent choices, device settings, and Google services, AdMob may
-process data such as identifiers, IP address, app interactions, diagnostics, ad
-performance, and ad measurement data.
-
-If you purchase Remove Ads, the app hides future ads for that install after the
-entitlement is active. Removing ads does not delete advertising data that Google
-or its partners may have already processed before the purchase.
-
-### Purchases
-
-Remove Ads purchases are processed by Google Play or Apple. Task Assistant does
-not receive or store your full payment card details. The app stores entitlement
-status so it can know whether ads should be hidden.
+Task Assistant may show ads using Google AdMob. Depending on your region,
+consent choices, device settings, and Google services, AdMob may process data
+such as identifiers, IP address, app interactions, diagnostics, ad performance,
+and ad measurement data.
 
 ### Diagnostics and reports
 
@@ -114,8 +104,7 @@ Task Assistant uses data to:
 - Sync selected reminders or calendar entries with device calendar and
   notification features.
 - Process voice commands when you activate voice.
-- Show and measure ads for free users.
-- Store Remove Ads entitlement state.
+- Show and measure ads.
 - Diagnose errors and support app maintenance.
 
 ## Third-Party Services
@@ -125,7 +114,7 @@ Task Assistant uses these service providers:
 - Railway for backend hosting and cloud database storage.
 - OpenAI for voice transcription and voice command interpretation.
 - Google AdMob for ads, consent choices, and ad measurement.
-- Google Play and Apple for purchases and store distribution.
+- Google Play and Apple for store distribution.
 - Expo and EAS for app builds and updates.
 
 Each third-party service processes data under its own terms and privacy
@@ -135,8 +124,8 @@ practices.
 
 Task Assistant does not sell your user-created reminders, lists, calendar
 entries, or voice content. Data may be shared with service providers as needed
-to run the app, process voice commands, provide ads, process purchases, maintain
-security, comply with law, or respond to support requests you submit.
+to run the app, process voice commands, provide ads, maintain security, comply
+with law, or respond to support requests you submit.
 
 ## Data Retention
 
@@ -162,8 +151,8 @@ You can delete your app data from inside Task Assistant:
 This deletes cloud data for the current pseudonymous installation ID, clears
 the local identity and cache, and starts the app as a new empty install. It does
 not delete data already processed by third-party services where those providers
-retain data under their own policies, such as purchase history with Google Play
-or Apple, or historical ad data processed by Google.
+retain data under their own policies, such as historical ad data processed by
+Google.
 
 You can also use Copy My Install ID in Settings if you need to reference your
 pseudonymous installation ID in a support request.
