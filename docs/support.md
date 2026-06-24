@@ -5,7 +5,7 @@ permalink: /support/
 
 # Task Assistant - with Voice Assist Support
 
-Task Assistant - with Voice Assist is developed and operated by Niche IT.
+Task Assistant - with Voice Assist is developed and operated by Niche IT LLC.
 
 ## Contact
 

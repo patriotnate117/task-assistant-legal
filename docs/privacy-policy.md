@@ -13,7 +13,7 @@ app for reminders, lists, calendar entries, alarms, and optional voice
 assistance. This policy explains what data the app uses, where it is processed,
 and how you can delete your app data.
 
-Task Assistant - with Voice Assist is developed and operated by Niche IT.
+Task Assistant - with Voice Assist is developed and operated by Niche IT LLC.
 
 ## Summary
 

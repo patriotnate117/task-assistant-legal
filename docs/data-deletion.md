@@ -9,6 +9,8 @@ Task Assistant - with Voice Assist provides two ways to delete your app data:
 in-app deletion and web-based deletion request. This page covers the web-based
 method, which is available if you cannot access the app.
 
+Task Assistant - with Voice Assist is developed and operated by Niche IT LLC.
+
 ## In-App Deletion (Preferred)
 
 The fastest way to delete your data is directly inside the app:

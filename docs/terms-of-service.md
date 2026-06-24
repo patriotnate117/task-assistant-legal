@@ -10,7 +10,7 @@ Last updated: June 16, 2026
 These Terms of Service ("Terms") govern your use of Task Assistant - with Voice
 Assist (also listed in the app as My Tasks), a productivity application for
 reminders, lists, calendar entries, alarms, and optional voice assistance ("the
-App"), developed and operated by Niche IT ("we," "us," or "our").
+App"), developed and operated by Niche IT LLC ("we," "us," or "our").
 
 By downloading, installing, or using the App, you agree to these Terms. If you
 do not agree, do not use the App.
@@ -103,7 +103,7 @@ control. We are not responsible for missed reminders or notifications.
 
 ## 10. Limitation of Liability
 
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL NICHE IT
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL NICHE IT LLC
 BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
 PUNITIVE DAMAGES, OR ANY LOSS OF DATA, REVENUE, PROFITS, OR GOODWILL, ARISING
 OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APP, EVEN IF ADVISED
@@ -119,7 +119,7 @@ so some of the above limitations may not apply to you.
 
 ## 11. Indemnification
 
-You agree to indemnify and hold harmless Niche IT from and against any claims,
+You agree to indemnify and hold harmless Niche IT LLC from and against any claims,
 liabilities, damages, losses, and expenses (including
 reasonable attorney's fees) arising out of or related to your use of the App,
 Your Content, or your violation of these Terms.
@@ -139,7 +139,7 @@ unauthorized access to the App.
 ## 13. App Store Terms
 
 The App is distributed through Google Play and/or Apple's App Store. These Terms
-are between you and Niche IT only, not with Google or
+are between you and Niche IT LLC only, not with Google or
 Apple. To the extent required by Google's or Apple's terms, those platform terms
 take precedence over these Terms for matters governed by the platform.
 
