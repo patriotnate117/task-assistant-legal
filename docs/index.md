@@ -4,7 +4,7 @@ title: Task Assistant
 
 # Task Assistant
 
-Support and policy documents for Task Assistant - with Voice Assist.
+Support and policy documents for Task Assistant.
 
 - [Privacy Policy](./privacy-policy/)
 - [Support](./support/)

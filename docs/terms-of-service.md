@@ -3,14 +3,14 @@ title: Terms of Service
 permalink: /terms-of-service/
 ---
 
-# Task Assistant - with Voice Assist Terms of Service
+# Task Assistant Terms of Service
 
-Last updated: June 16, 2026
+Last updated: August 2, 2026
 
-These Terms of Service ("Terms") govern your use of Task Assistant - with Voice
-Assist (also listed in the app as My Tasks), a productivity application for
-reminders, lists, calendar entries, alarms, and optional voice assistance ("the
-App"), developed and operated by Niche IT ("we," "us," or "our").
+These Terms of Service ("Terms") govern your use of Task Assistant, a
+productivity application for reminders, lists, an in-app calendar view,
+notification-backed alarms, and optional voice assistance ("the App"),
+developed and operated by Niche IT LLC ("we," "us," or "our").
 
 By downloading, installing, or using the App, you agree to these Terms. If you
 do not agree, do not use the App.
@@ -36,9 +36,10 @@ the App in any way not expressly permitted by these Terms.
 
 ## 3. Your Content
 
-The App allows you to create and store reminders, lists, calendar entries, and
-other personal productivity content ("Your Content"). You retain ownership of
-Your Content.
+The App allows you to create and store reminders, lists, and other personal
+productivity content ("Your Content"). Dated reminders appear in the in-app
+Calendar and may be copied to your device calendar when permission is granted.
+You retain ownership of Your Content.
 
 By using the App, you grant us a limited license to store, process, and transmit
 Your Content solely as necessary to provide the App's features to you. We do not
@@ -60,6 +61,8 @@ You agree not to use the App to:
 - Use automated tools to scrape, extract, or misuse App data.
 - Transmit malicious code, viruses, or other harmful software.
 - Impersonate any person or entity or falsely represent your affiliation.
+- Attempt to use the voice feature as a general-purpose AI or for commands
+  unrelated to Task Assistant's supported productivity functions.
 
 ## 5. Third-Party Services
 
@@ -103,7 +106,7 @@ control. We are not responsible for missed reminders or notifications.
 
 ## 10. Limitation of Liability
 
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL NICHE IT
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL NICHE IT LLC
 BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
 PUNITIVE DAMAGES, OR ANY LOSS OF DATA, REVENUE, PROFITS, OR GOODWILL, ARISING
 OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APP, EVEN IF ADVISED
@@ -119,7 +122,7 @@ so some of the above limitations may not apply to you.
 
 ## 11. Indemnification
 
-You agree to indemnify and hold harmless Niche IT from and against any claims,
+You agree to indemnify and hold harmless Niche IT LLC from and against any claims,
 liabilities, damages, losses, and expenses (including
 reasonable attorney's fees) arising out of or related to your use of the App,
 Your Content, or your violation of these Terms.
@@ -139,7 +142,7 @@ unauthorized access to the App.
 ## 13. App Store Terms
 
 The App is distributed through Google Play and/or Apple's App Store. These Terms
-are between you and Niche IT only, not with Google or
+are between you and Niche IT LLC only, not with Google or
 Apple. To the extent required by Google's or Apple's terms, those platform terms
 take precedence over these Terms for matters governed by the platform.
 

@@ -3,24 +3,30 @@ title: Data Deletion
 permalink: /data-deletion/
 ---
 
-# Task Assistant - with Voice Assist Data Deletion Request
+# Task Assistant Data Deletion Request
 
-Task Assistant - with Voice Assist provides two ways to delete your app data:
+Task Assistant provides two ways to delete your app data:
 in-app deletion and web-based deletion request. This page covers the web-based
 method, which is available if you cannot access the app.
+
+Task Assistant is developed and operated by Niche IT LLC.
 
 ## In-App Deletion (Preferred)
 
 The fastest way to delete your data is directly inside the app:
 
-1. Open Task Assistant - with Voice Assist.
+1. Open Task Assistant.
 2. Go to **Settings**.
 3. Open the **Privacy** section.
 4. Tap **Delete My App Data**.
 5. Confirm the deletion.
 
-This immediately deletes your cloud data, clears your local installation ID and
-cache, and resets the app to a new empty install.
+If cloud deletion succeeds, the App clears the old installation identity and
+cache and starts as a new empty install. It also cancels device reminders and
+removes copied calendar entries where permission allows. Any local cleanup that
+cannot finish immediately is retained for retry. If cloud deletion fails, the
+App retains the identity and local schedules and reports that no cloud data was
+deleted.
 
 ## Web Deletion Request
 
@@ -29,14 +35,18 @@ email us at:
 
 **nicheit2224@gmail.com**
 
-Use the subject line: **Data Deletion Request - Task Assistant - with Voice Assist**
+Use the subject line: **Data Deletion Request - Task Assistant**
 
 Include the following in your message:
 
 - Your **pseudonymous installation ID**, if available. You can find this in
   **Settings > Copy My Install ID** before uninstalling.
-- The approximate date you last used the app (if you no longer have the ID).
 - A brief description of what you would like deleted.
+
+Because Task Assistant does not require an account and does not collect your
+name or email for identity, Niche IT LLC cannot reliably locate cloud records
+without the pseudonymous installation ID. Do not post that ID in a public
+GitHub issue.
 
 We will process your request within **30 days** and confirm by email when
 complete.
