@@ -11,7 +11,7 @@ Task Assistant is developed and operated by Niche IT LLC.
 
 For support questions, bug reports, or feature requests:
 
-**Email**: nicheit2224@gmail.com
+**Email**: contact@nicheitsolutions.com
 
 **GitHub Issues**: https://github.com/patriotnate117/task-assistant/issues
 

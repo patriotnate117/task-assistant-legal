@@ -205,7 +205,7 @@ If you cannot access the app, you may also request deletion by visiting:
 
 [Task Assistant Data Deletion Request](https://patriotnate117.github.io/task-assistant-legal/data-deletion/)
 
-or by emailing **nicheit2224@gmail.com** with your pseudonymous
+or by emailing **contact@nicheitsolutions.com** with your pseudonymous
 installation ID (available in Settings > Copy My Install ID) so the request
 can be matched to the correct records.
 
@@ -229,7 +229,7 @@ We do not knowingly collect personal information from children under 13. If we
 become aware that we have collected personal information from a child under 13,
 we will delete that information promptly. If you are a parent or guardian and
 believe your child has provided us with personal information, please contact us
-at **nicheit2224@gmail.com**.
+at **contact@nicheitsolutions.com**.
 
 ## International Processing
 
@@ -244,7 +244,7 @@ clauses) for international transfers of personal data from the EEA or UK.
 Depending on your location, you may have certain rights regarding your personal
 data. The in-app Delete My App Data control and the web deletion request
 described above are the primary ways to delete cloud app data for the current
-install. For all other requests, contact us at **nicheit2224@gmail.com**
+install. For all other requests, contact us at **contact@nicheitsolutions.com**
 and include your pseudonymous installation ID when possible.
 
 ### EEA, UK, and Switzerland (GDPR and applicable law)
@@ -284,7 +284,7 @@ If you are a California resident, you have the right to:
 - **Non-discrimination**: we will not discriminate against you for exercising
   your privacy rights.
 
-To submit a CCPA request, contact us at **nicheit2224@gmail.com**.
+To submit a CCPA request, contact us at **contact@nicheitsolutions.com**.
 
 ## Changes to This Policy
 
@@ -296,6 +296,6 @@ new "Last updated" date.
 
 For support or privacy questions, contact us at:
 
-**Email**: nicheit2224@gmail.com
+**Email**: contact@nicheitsolutions.com
 
 **GitHub**: https://github.com/patriotnate117/task-assistant/issues
