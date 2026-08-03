@@ -169,7 +169,7 @@ Delete My App Data feature or by submitting a
 
 For questions about these Terms, contact us at:
 
-**Email**: nicheit2224@gmail.com
+**Email**: contact@nicheitsolutions.com
 
 **GitHub**: https://github.com/patriotnate117/task-assistant/issues
 

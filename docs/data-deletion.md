@@ -33,7 +33,7 @@ deleted.
 If you cannot access the app or prefer to submit a request outside the app,
 email us at:
 
-**nicheit2224@gmail.com**
+**contact@nicheitsolutions.com**
 
 Use the subject line: **Data Deletion Request - Task Assistant**
 
@@ -78,4 +78,4 @@ tools for that data:
 
 For any privacy questions, see our
 [Privacy Policy](https://patriotnate117.github.io/task-assistant-legal/privacy-policy/)
-or contact us at **nicheit2224@gmail.com**.
+or contact us at **contact@nicheitsolutions.com**.
