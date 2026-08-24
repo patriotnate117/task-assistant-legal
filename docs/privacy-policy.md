@@ -5,7 +5,7 @@ permalink: /privacy-policy/
 
 # Task Assistant Privacy Policy
 
-Last updated: August 2, 2026
+Last updated: August 24, 2026
 
 Task Assistant (referred to in this policy as "the App") is a productivity app
 for reminders, lists, an in-app calendar view, notification-backed alarms, and
@@ -23,7 +23,7 @@ quick reminders, and related app data separate from other installs.
 
 The app stores cloud app data on Railway-hosted infrastructure. Voice features
 use OpenAI only when you activate voice. Task Assistant is ad-supported and may
-show ads from Google AdMob.
+show ads through Unity LevelPlay and the ironSource advertising network.
 
 ## Data We Collect or Process
 
@@ -81,19 +81,20 @@ it being processed by the backend and OpenAI for the voice request.
 
 ### Ads and ad measurement
 
-Task Assistant may show ads using Google AdMob. Depending on your region,
-consent choices, device settings, and Google services, AdMob may process data
-such as identifiers, IP address, app interactions, diagnostics, ad performance,
-and ad measurement data. An IP address may be used to estimate a device's
-general or approximate location. Task Assistant does not request Android's
-precise or approximate location permissions.
+Task Assistant may show ads through Unity LevelPlay and the ironSource
+advertising network. Depending on your region, device settings, and Unity's
+services, Unity and participating advertising partners may process data such as
+advertising or device identifiers, IP address, app and ad interactions,
+diagnostics, fraud-prevention signals, ad performance, and measurement data. An
+IP address may be used to estimate a device's general or approximate location.
+Task Assistant does not request Android's precise or approximate location
+permissions.
 
-For users in regions where consent is required (such as the European Economic
-Area, United Kingdom, and Switzerland), the app presents a consent form at
-launch using Google's User Messaging Platform (UMP) before serving personalized
-ads. You may withdraw or update your ad consent choices in the app's Settings
-at any time. If you decline personalized ads, AdMob may still show
-non-personalized ads.
+The current app configures LevelPlay for limited, non-personalized advertising
+and sends a do-not-sell-or-share signal before initializing ads. Task Assistant
+does not enable personalized ads through this integration. If personalized ads
+or a consent management platform are added later, the app and this policy will
+be updated before that processing begins.
 
 ### Diagnostics and reports
 
@@ -143,8 +144,6 @@ applicable UK and Swiss data protection law:
 - **Voice data**: Processing occurs only when you actively invoke the voice
   feature, constituting your consent to that specific processing
   (Article 6(1)(a) GDPR). You may stop using voice at any time.
-- **Personalized ads (AdMob)**: Processing is based on your consent, collected
-  via the in-app consent form at launch (Article 6(1)(a) GDPR).
 - **Non-personalized ads**: Processing is based on our legitimate interest in
   operating an ad-supported app (Article 6(1)(f) GDPR).
 - **Diagnostics**: Processing is based on our legitimate interest in maintaining
@@ -156,7 +155,8 @@ Task Assistant uses these service providers:
 
 - Railway for backend hosting and cloud database storage.
 - OpenAI for voice transcription and voice command interpretation.
-- Google AdMob for ads, consent choices, and ad measurement.
+- Unity LevelPlay and the ironSource advertising network for ads, fraud
+  prevention, and ad measurement.
 - Google Play and Apple for store distribution.
 - Expo and EAS for app builds and updates.
 
@@ -166,12 +166,13 @@ practices.
 ## Data Sharing
 
 Task Assistant does not sell your user-created reminders, lists, dated reminder
-details, or voice content. Data may be shared with service
+details, or voice content. Data may be disclosed to service
 providers as needed to run the app, process voice commands, provide ads,
 maintain security, comply with law, or respond to support requests you submit.
-Advertising partners such as Google AdMob may process identifiers, ad
+Advertising partners such as Unity and ironSource may process identifiers, ad
 interactions, diagnostics, and related data for advertising and measurement as
-described in this policy and controlled by your consent and device settings.
+described in this policy and controlled by the app's limited-ad configuration
+and your device settings.
 
 ## Data Retention
 
@@ -211,7 +212,7 @@ can be matched to the correct records.
 
 Deletion does not remove data already processed by third-party services where
 those providers retain data under their own policies, such as historical ad
-data processed by Google.
+data processed by Unity or its advertising partners.
 
 ## Security
 
@@ -277,10 +278,10 @@ If you are a California resident, you have the right to:
   subject to certain exceptions.
 - **Correct**: request correction of inaccurate personal information.
 - **Opt out of sale or sharing**: Task Assistant does not
-  sell your user-created app content. Advertising partners such as Google AdMob
-  may process identifiers, ad interactions, diagnostics, and related data for
-  advertising and measurement as described in this policy and controlled by your
-  consent and device settings.
+  sell your user-created app content. Advertising partners such as Unity and
+  ironSource may process identifiers, ad interactions, diagnostics, and related
+  data for advertising and measurement as described in this policy and
+  controlled by the app's limited-ad configuration and your device settings.
 - **Non-discrimination**: we will not discriminate against you for exercising
   your privacy rights.
 

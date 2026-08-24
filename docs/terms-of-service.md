@@ -5,7 +5,7 @@ permalink: /terms-of-service/
 
 # Task Assistant Terms of Service
 
-Last updated: August 2, 2026
+Last updated: August 24, 2026
 
 These Terms of Service ("Terms") govern your use of Task Assistant, a
 productivity application for reminders, lists, an in-app calendar view,
@@ -66,17 +66,17 @@ You agree not to use the App to:
 
 ## 5. Third-Party Services
 
-The App integrates with third-party services including Railway, OpenAI, Google
-AdMob, Google Play, Apple, Expo, and EAS. Your use of those services is subject
+The App integrates with third-party services including Railway, OpenAI, Unity
+LevelPlay, ironSource, Google Play, Apple, Expo, and EAS. Your use of those services is subject
 to their respective terms and policies. We are not responsible for the practices
 or content of any third-party service.
 
 ## 6. Ads
 
-The App is ad-supported and may display ads from Google AdMob. Ad content is
-provided by Google and its advertising partners. We are not responsible for the
-content of third-party ads. For users in applicable regions, ad personalization
-is subject to your consent choices.
+The App is ad-supported and may display ads through Unity LevelPlay and the
+ironSource advertising network. Ad content may be provided by Unity and its
+advertising partners. We are not responsible for the content of third-party
+ads. The current app uses a limited, non-personalized ad configuration.
 
 ## 7. App Updates
 
