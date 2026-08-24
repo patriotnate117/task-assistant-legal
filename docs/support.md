@@ -41,10 +41,11 @@ See the [Data Deletion Request](https://patriotnate117.github.io/task-assistant-
 page for in-app and web-based options.
 
 **Ad-related questions**
-Task Assistant uses Google AdMob for ads. Ad content is
-served and managed by Google. For ad preferences, visit
-[Google's My Ad Center](https://myadcenter.google.com/). For consent choices
-within the app, go to Settings > Privacy > Ad Preferences.
+Task Assistant uses Unity LevelPlay and the ironSource advertising network for
+limited, non-personalized ads. Review the app's
+[Privacy Policy](https://patriotnate117.github.io/task-assistant-legal/privacy-policy/)
+and [Unity's App User Privacy FAQ](https://unity.com/legal/game-player-and-app-user-privacy-faq)
+for details.
 
 ## Response Time
 

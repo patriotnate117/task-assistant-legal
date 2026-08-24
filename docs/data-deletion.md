@@ -68,10 +68,10 @@ compliance.
 
 A deletion request does not remove data that has already been processed by
 third-party services under their own policies, such as historical ad measurement
-data processed by Google AdMob. Please refer to each provider's own deletion
-tools for that data:
+data processed by Unity or its advertising partners. Please refer to each
+provider's own privacy tools for that data:
 
-- [Google's My Ad Center](https://myadcenter.google.com/)
+- [Unity App User Privacy FAQ](https://unity.com/legal/game-player-and-app-user-privacy-faq)
 - [OpenAI Privacy Policy](https://openai.com/policies/privacy-policy/)
 
 ## Questions
