@@ -98,6 +98,21 @@ be updated before that processing begins.
 
 ### Diagnostics and reports
 
+When privacy-safe crash reporting is enabled, Task Assistant may send technical
+crash and error information to Sentry. The app removes error messages, request
+content, user identifiers, authentication data, breadcrumbs, and private app
+content before delivery. Sentry may process limited app, device, operating
+system, release, and redacted stack-location information needed to diagnose app
+reliability. Screenshots and session replay are disabled.
+
+If you explicitly enable Anonymous Usage Analytics in Settings, Task Assistant
+may send broad feature-use events to PostHog, such as an app open, the tab used,
+or whether a voice stage succeeded or failed. These events do not include your
+authentication install ID, reminders, lists, calendar details, alarm content,
+audio, or voice transcripts. PostHog person profiles, session replay, automatic
+screen/touch capture, and GeoIP enrichment are disabled. You can turn this
+optional analytics collection off from Settings at any time.
+
 If you use Report Issue or Copy Diagnostics, the app may include non-secret
 diagnostic information such as app version, runtime version, update ID, platform,
 operating system version, device model, backend URL origin, backend version
@@ -123,13 +138,15 @@ You can change permissions in your device settings.
 
 Task Assistant uses data to:
 
-- Provide reminders, lists, calendar entries, alarms, and voice assistance.
+- Provide reminders, lists, an in-app calendar view, notification-backed alarms,
+  and voice assistance.
 - Keep one install's data separate from another install's data.
-- Sync selected reminders or calendar entries with device calendar and
-  notification features.
+- Copy selected dated reminders to the device calendar and notification
+  features.
 - Process voice commands when you activate voice.
 - Show and measure ads.
 - Diagnose errors and support app maintenance.
+- Measure broad feature usage only when you opt in to Anonymous Usage Analytics.
 
 ## Legal Basis for Processing
 
@@ -148,6 +165,9 @@ applicable UK and Swiss data protection law:
   operating an ad-supported app (Article 6(1)(f) GDPR).
 - **Diagnostics**: Processing is based on our legitimate interest in maintaining
   and improving the app's reliability and security (Article 6(1)(f) GDPR).
+- **Optional usage analytics**: Processing is based on your consent when you
+  enable Anonymous Usage Analytics (Article 6(1)(a) GDPR). You may disable it at
+  any time in Settings.
 
 ## Third-Party Services
 
@@ -159,6 +179,8 @@ Task Assistant uses these service providers:
   prevention, and ad measurement.
 - Google Play and Apple for store distribution.
 - Expo and EAS for app builds and updates.
+- Sentry for privacy-filtered crash and error reporting when configured.
+- PostHog for optional, privacy-filtered product analytics when you opt in.
 
 Each third-party service processes data under its own terms and privacy
 practices.
